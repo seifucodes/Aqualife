@@ -1,6 +1,6 @@
 {
-"companyName": "PT",
-"productName": "AquaLife",
+"companyName": "DefaultCompany",
+"productName": "PTRAN",
 "productVersion": "0.1",
 "dataUrl": "Aquatic.data.unityweb",
 "wasmCodeUrl": "Aquatic.wasm.code.unityweb",
